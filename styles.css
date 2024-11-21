@@ -1,0 +1,29 @@
+styles.css */
+
+/* Reset some basic styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    padding: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px;
+}
+
+/* Simple container to center content */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
